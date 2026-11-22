@@ -1,0 +1,6 @@
+12:25:40.409 [TestNG-test-Test-1] INFO  automation.airbnb_final.BookingTest - URl launched
+12:25:40.922 [TestNG-test-Test-1] INFO  automation.airbnb_final.BookingTest - destination entered
+12:25:44.404 [TestNG-test-Test-1] INFO  automation.airbnb_final.BookingTest - checkin date  entered
+12:25:47.623 [TestNG-test-Test-1] INFO  automation.airbnb_final.BookingTest - checkout date  entered
+12:26:12.243 [TestNG-test-Test-1] INFO  automation.airbnb_final.BookingTest - minimum price entered
+12:26:37.434 [TestNG-test-Test-1] INFO  automation.airbnb_final.BookingTest - 91 homes in Lonavala

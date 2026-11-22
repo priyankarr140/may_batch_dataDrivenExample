@@ -1,0 +1,5 @@
+15:57:22.196 [TestNG-test-Test-1] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle stcelltypebf95type
+15:57:22.201 [TestNG-test-Test-1] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle stxstringf179type
+15:57:42.789 [TestNG-test-Test-1] INFO  automation.airbnb_final.BookingTest - Pop up didnt come
+15:57:49.111 [TestNG-test-Test-1] INFO  automation.airbnb_final.BookingTest - URl launched
+15:57:50.996 [TestNG-test-Test-1] INFO  automation.airbnb_final.BookingTest - destination entered

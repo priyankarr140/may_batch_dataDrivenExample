@@ -1,0 +1,6 @@
+14:50:46.253 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle stcelltypebf95type
+14:50:46.285 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle stxstringf179type
+14:50:58.693 [main] INFO  automation.airbnb_final.BookingTest - destination entered
+14:50:59.529 [main] INFO  automation.airbnb_final.BookingTest - checkin date  entered
+14:50:59.717 [main] INFO  automation.airbnb_final.BookingTest - checkout date  entered
+14:51:08.296 [main] INFO  automation.airbnb_final.BookingTest - minimum price entered
